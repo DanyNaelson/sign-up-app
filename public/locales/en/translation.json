@@ -1,3 +1,72 @@
 {
-    "welcome": "Welcome"
+    "buttons": {
+        "createAccount": "Create account"
+    },
+    "creatingAccount": "By creating an account I agree to the",
+    "creatingAccountJefa": "By creating an account I attest that I qualify for the Jefa Community per the",
+    "email": {
+        "cannot": {
+            "be": {
+                "empty": "Email cannot be empty"
+            }
+        }
+    },
+    "fields": {
+        "confirmPassword": "Confirm password",
+        "email": "Email",
+        "emailExample": "example@domain.com",
+        "enterPassword": "Enter your password",
+        "password": "Password",
+        "telephoneNumber": "Telephone number"
+    },
+    "haveAccount": "Already have an account?",
+    "invalid": {
+        "email": "Invalid email",
+        "password": "Invalid password"
+    },
+    "messages": {
+        "aNumber": "A number",
+        "atLeastCharacter": "at least {{ characters }} characters",
+        "maximumCharacters": "Maximum {{ characters }} characters",
+        "minimumCharacters": "Minimum {{ characters }} characters",
+        "oneLowercaseLetter": "One lowercase letter",
+        "oneUppercaseLetter": "One uppercase letter",
+        "passwordMustBe": "The password must have at least",
+        "specialCharacter": "A special character",
+        "success": "Success"
+    },
+    "password": {
+        "cannot": {
+            "be": {
+                "empty": "Password cannot be empty"
+            }
+        }
+    },
+    "passwords": {
+        "do": {
+            "not": {
+                "match": "The two passwords do not match"
+            }
+        }
+    },
+    "privacyPolicy": "Privacy Policy",
+    "signInText": "Sign in",
+    "termsAndConditionsJefa": "Terms and Conditions of Jefa",
+    "termsAndConditionsCommunityJefa": "Terms and Conditions of the Jefa Comunnity",
+    "user": {
+        "with": {
+            "this": {
+                "email": {
+                    "exist": "User with this email already exists"
+                }
+            }
+        }
+    },
+    "validations": {
+        "areRequired": "These fields are required",
+        "confirmPassword": "The two passwords do not match",
+        "invalidEmail": "Please enter a valid email address",
+        "isRequired": "This field is required",
+        "needAgreeTermsAndConditions": "You need to agree to the terms and conditions"
+    }
 }

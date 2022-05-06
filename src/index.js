@@ -3,12 +3,13 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import './index.less'
 import './i18n'
+import SignUp from './components/sign-up'
 
 class App extends Component {
     render() {
         return (
             <div id='sign-up-container'>
-                Sign up component
+                <SignUp />
             </div>
         )
     }
